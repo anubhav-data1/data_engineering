@@ -1,0 +1,17 @@
+site_name: keep Up the learning
+site_author: Anubhav Singhal
+site_description: concepts, quick reads, notes, etc.
+
+repo_name: data_engineering
+repo_url: https://github.com/anubhav-data1/data_engineering/
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2025 Anubhav Singhal
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+#  - Concepts:
