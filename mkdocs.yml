@@ -13,5 +13,5 @@ theme:
   language: en
 
 nav:
-  - Home: index.md
+  - Home: home/index.md
 #  - Concepts:
