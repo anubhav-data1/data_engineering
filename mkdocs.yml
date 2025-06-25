@@ -14,4 +14,5 @@ theme:
 
 nav:
   - Home: home/index.md
+  - Service: Cloud/AWS/services.md
 #  - Concepts:
