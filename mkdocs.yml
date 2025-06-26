@@ -13,6 +13,5 @@ theme:
   language: en
 
 nav:
-  - Home: home/index.md
+  - Home: home/start.md
   - Service: Cloud/AWS/services.md
-#  - Concepts:
