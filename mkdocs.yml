@@ -14,4 +14,12 @@ theme:
 
 nav:
   - Home: home/start.md
-  - Service: Cloud/AWS/services.md
+  - Cloud: 
+      - AWS:
+        - Service: Cloud/AWS/services.md
+        - Databases: Cloud/AWS/databases.md
+        - Disaster Recovery: Cloud/AWS/disasterrecovery.md
+        - Migratation: Cloud/AWS/migrataion.md
+        - Gateway: Cloud/AWS/gateway.md
+        - Logs: Cloud/AWS/logs.md
+      - GCP:
