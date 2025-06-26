@@ -22,4 +22,4 @@ nav:
         - Migratation: Cloud/AWS/migrataion.md
         - Gateway: Cloud/AWS/gateway.md
         - Logs: Cloud/AWS/logs.md
-      - GCP:
+  - Linux: Random/linux.md

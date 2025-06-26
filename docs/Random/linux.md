@@ -1,0 +1,45 @@
+# Linux
+
+- calendar
+    - date : today date
+    - cal : print calendar
+    - cal -y : calendar for entire year
+    - cal 1998 : print year of 1998
+- Linux is tree like structure. The first directory in called the root directory. It is represented by forward slash /
+- Each user is given a home directory e.g. /home/anubhav/
+- Current directory represented as .
+- Parent directory represented as ..
+- pwd - present working directory
+- cd - change directory
+- Absolute path : Path from starting directory
+- Relative path : Path from current directory
+- Home directory represented as ~
+- Previous directory represented as -
+- ls : listing in current directory
+    - ls - a : all files + hidden files(starts with .) in current directory
+    - ls -l : long listing
+    - ls -t : listing as per time descending order
+    - ls -R : details of all the directory in current directory, print contents of subdirectory as well
+- Green colour - executable
+- Blue colour - directory
+- Black colour - files
+- touch : create an empty file, or change the timestamp of that file
+- mkdir : create new directory
+    - mkdir dir1 dir2 : creating multiple directory
+- rmdir : remove directory, will work if the directory is empty
+- rm : delete files
+- rm -R : to remove a directory
+- cp : copy command
+    - cp file1 file2 (will create a copy of an existing file named file1 with the name file2)
+    - cp file1 dir3 (will copy the file1 into directory3)
+    - cp -R dir5 dir6 (will copy the entire dir5 inside directory6 recursively)
+- mv : move files from one folder to another
+- cat > new file name : to create file and enter data
+- vi : to open a text file
+- cat file : to view file
+    - cat file1 > file2 : to copy the content on file1 to file2 and overwrite file 2
+    - cat file1 >> file2 : to append the data
+    - cat file1 file 2 >> file3 : to merge to files to one
+- du : disk usage
+- du -h : disk usage human readable
+- grep : to search pattern in the files
