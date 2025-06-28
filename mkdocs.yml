@@ -1,4 +1,4 @@
-site_name: keep Up the learning
+site_name: Notes From Beyond
 site_author: Anubhav Singhal
 site_description: concepts, quick reads, notes, etc.
 
@@ -23,3 +23,4 @@ nav:
         - Gateway: Cloud/AWS/gateway.md
         - Logs: Cloud/AWS/logs.md
   - Linux: Random/linux.md
+  - Photography: Photography/Basic.md
