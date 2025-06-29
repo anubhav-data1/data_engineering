@@ -14,13 +14,10 @@ theme:
 
 nav:
   - Home: home/start.md
+  - Linux: Random/linux.md
   - Cloud: 
       - AWS:
         - Service: Cloud/AWS/services.md
         - Databases: Cloud/AWS/databases.md
-        - Disaster Recovery: Cloud/AWS/disasterrecovery.md
-        - Migratation: Cloud/AWS/migrataion.md
-        - Gateway: Cloud/AWS/gateway.md
-        - Logs: Cloud/AWS/logs.md
-  - Linux: Random/linux.md
+        - Disaster Recovery: Cloud/AWS/Machine_learning.md
   - Photography: Photography/Basic.md
