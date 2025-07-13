@@ -2,7 +2,7 @@
 
 1. EC2
 1. Route 52
-1. S3
+1. [S3 Storage in AWS](S3.md)
 1. AWS SDK
 1. AWS CloudFront
 1. AWS Global Accelerator
@@ -52,15 +52,33 @@
 1. AWS Glue
 1. AWS Lake Formation
 1. [ML Services](Machine_learning.md)
-1. AWS Monitoring, Audit and Performance
-    1. CloudWatch
-    1. CloudWatch Metric Streams
-    1. CloudWatch Logs
-    1. CloudWatch Logs Agent
-    1. CloudWatch Unified Agent
-    1. CloudWWatch Alarms
-    1. CloudWatch Alarm Targets
-    1. Amazon Event Bridge
-    1. AWS CloudTrail
-    1. CAWS Config
-    1. 
+1. [AWS Monitoring, Audit and Performance](monitoring.md)
+1. [Identiy in AWS](identity.md)
+1. [Security & Encryption](security.md)
+1. [VPC](virtualprivatecloud.md)
+1. [Disaster Recovery](disasterrecovery.md)
+1. [Migration Services](migration.md)
+1. Other Services
+    1. CloudFormation
+    1. Amazon Pinpoint
+    1. Stack Designer
+    1. Amazon SES
+    1. Run Command
+    1. SSM Session Manager
+    1. Maintenance Windows
+    1. Patch Manager
+    1. Maintenance Windows
+    1. Cost Explorer
+    1. AWS Batch
+    1. Amazon Elastic Transcoder
+    1. AWS Batch
+    1. Batch vs Lambda
+    1. Amazon AppFlow
+1. Well Architected Framework
+    1. Operational Excellence
+    1. Security
+    1. Reliability
+    1. Performance Efficiency
+    1. Cost Optimization
+    1. Sustainability
+1. Trusted Advisor
